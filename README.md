@@ -1,5 +1,7 @@
 use follow command to make image and container
 
+cd /usr/docker/  ##Dockerfile's location
+
 docker build -t vert .
 
 docker image ls
